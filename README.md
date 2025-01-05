@@ -32,7 +32,7 @@ As an aspiring Data Analyst, I developed Power BI reports that deliver crucial i
 <br/>**<h3>Home Page</h3>** 
 
 <p align="center">
-  <img src="HomePage_updated.png" title="Home Page" >
+  <img src="Homepage_BI.png" title="Home Page" >
 </p>
 
 <br/><h3>Finance View: Financial planning and Expense Management </h3> 
@@ -43,7 +43,7 @@ Implemented a financial forecasting model, resulting in more accurate budget pre
 **Finance view**
 
 <p align="center">
-  <img src="Finance_view_updated.png" title="Finance View" >
+  <img src="Finance_BI.png" title="Finance View" >
 </p>
 
 <br/><h3>Sales View: Increase sales revenue with Customer and Product Performance </h3>
@@ -54,7 +54,7 @@ Created customer and product overall sales performance report. Identified sales 
 **Sales View**
 
 <p align="center">
-  <img src="Sales View.png" title="Sales View" >
+  <img src="Sales_BI.png" title="Sales View" >
 </p>
 
 <br/><h3>Marketing View: Implement data-driven marketing strategies</h3>
@@ -65,7 +65,7 @@ Created region and product wise overall market performance report and unit econo
 **Marketing view**
 
 <p align="center">
-  <img src="Marketting View.png" title="Marketting View" >
+  <img src="Marketting_BI.png" title="Marketting View" >
 </p>
 
 <br/><h3>Supply Chain View: Optimization metrics for efficient supply chain management.</h3>
@@ -76,7 +76,7 @@ Identified forecast accuracy % , net error % ,absolute error % trends. Key Metri
 **Supply Chain View**
 
 <p align="center">
-  <img src="Supply Chain View.png" title="Supply Chain View" >
+  <img src="Supply_chain_BI.png" title="Supply Chain View" >
 </p>
 
 <br/><h3>Executive View: Metrics critical for top-level decision-makers.</h3>
@@ -87,7 +87,7 @@ Developed an executive dashboard for real-time performance monitoring. Shows rev
 **Executive View**
 
 <p align="center">
-  <img src="Executive View.png" title="Executive View" >
+  <img src="Executive_BI.png" title="Executive View" >
 </p>
 
 # Skills
