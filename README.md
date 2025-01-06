@@ -3,13 +3,27 @@
 
 
 👋 Hello Everyone!
-I'm excited to present Business Insights 360, a comprehensive Power BI project from the Power BI Data Analytics for All Levels course by Codebasics.
+Excited to share my New design of my "Business Insights 360" PowerBI report, tailored for Atliq Hardware!.📶
+
 
 Business Insights 360 - Power BI Project for AtliQ Hardware
 
 **Live Dashboard Link**: [Link](https://app.powerbi.com/view?r=eyJrIjoiMDZmNTIxODQtZDcyNC00ZWJhLWJhZDMtYzRhZjBlMzdmYjVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 **Linkedin Profile Link**: [Link](https://www.linkedin.com/in/vijay-v-534666209)
+
+Excited to update the transformation of New dashboard Design!
+
+**Here's what's new:** 🌟
+- Refreshed cards using the new card visual
+- Utilized field parameters alongside slicers for seamless visual switching
+- Extensively integrated bookmarks for Left-navigation, information page and support page 
+- Managed object visibility and layering order efficiently using the selection pane
+- Incorporated custom-designed icons and background imagery with Canva
+
+
+This redesign journey has been nothing short of exhilarating, filled with exploration, creativity and abundant learning opportunities. It's remarkable how even the smallest changes can yield significant impacts! 📶✨
+
 
 # Brief overview of the project:
 
