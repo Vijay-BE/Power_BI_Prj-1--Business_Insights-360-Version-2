@@ -2,11 +2,12 @@
 
 
 
+
 👋 Hello Everyone!
 Excited to share my New design of my "Business Insights 360" PowerBI report, tailored for Atliq Hardware!.📶
 
 
-Business Insights 360 - Power BI Project for AtliQ Hardware
+                **Business Insights 360 - Power BI Project for AtliQ Hardware**
 
 **Live Dashboard Link**: [Link](https://app.powerbi.com/view?r=eyJrIjoiMDZmNTIxODQtZDcyNC00ZWJhLWJhZDMtYzRhZjBlMzdmYjVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
